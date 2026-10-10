@@ -1,6 +1,6 @@
 cask "inline-dsp" do
-  version "1.0.0"
-  sha256 "be1d00a718c1d0485f9220d2e7b94b4477e4045ab940435d57863db4858b08a4"
+  version "1.1.0"
+  sha256 "84a80ee3aa17e487dab9c441599e3a474ec4234d0afe60a9bfae1b5e6ca80540"
 
   url "https://github.com/AleCo3lho/inline-dsp/releases/download/v#{version}/InlineDSP-#{version}-macos.zip"
   name "InlineDSP"
